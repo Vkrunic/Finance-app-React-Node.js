@@ -1,0 +1,56 @@
+
+.page{
+    display:flex;
+    flex-direction: column;
+    background: linear-gradient(90deg, rgba(2,62,138,1) 54%, rgba(1,158,215,1) 100%);
+    width: 100%!important;
+    padding:0;
+    margin:0;
+    font-family: "Sora";
+    color:white;
+}
+.pages{
+    display:flex;
+    flex-direction: column;
+    background: linear-gradient(90deg, rgba(2,62,138,1) 54%, rgba(1,158,215,1) 100%);
+    width: 100%!important;
+    padding:0;
+    margin:0;
+    font-family: "Sora";
+    color:white;
+    min-height: 100vh;
+}
+
+.headline{
+    font-size: 2rem;
+    margin-bottom: 50px;
+}
+.nav-link{
+    color: white !important;
+    font-size: 20px!important;
+}
+.login{
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.container{
+    /* display:flex;
+    flex-direction: column;
+    width: 1600px!important; */
+}
+.btn{
+  width: 100%!important;
+}
+.forms{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.register{
+    margin-top: 10px;
+}

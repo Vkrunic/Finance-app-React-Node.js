@@ -1,0 +1,56 @@
+.form{
+    display:flex;
+    flex-direction: column;
+}
+.addStuff{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    width:100%;
+    justify-content: space-between;
+    padding-top: 150px;
+}
+.addProjectsContainer{
+    padding: 20px;
+    width: 350px;
+    background-color: rgba(0, 0, 0, 0.187);
+    border-radius: 9px;
+    margin:15px;
+    height: fit-content;
+}
+.addEmployeesContainer{
+    padding: 20px;
+    width: 350px;
+    background-color: rgba(0, 0, 0, 0.187);
+    border-radius: 9px;
+    margin:15px;
+    margin-top:-250px;
+}
+
+.addTaskContainer {
+    padding: 20px;
+    width: 350px;
+    background-color: rgba(0, 0, 0, 0.187);
+    border-radius: 9px;
+    margin:15px;
+}
+.addClientContainer{
+    padding: 20px;
+    width: 350px;
+    background-color: rgba(0, 0, 0, 0.187);
+    border-radius: 9px;
+    margin:15px;
+    height: fit-content;
+
+}
+.addExpencesContainer{
+    padding: 20px;
+    width: 350px;
+    background-color: rgba(0, 0, 0, 0.187);
+    border-radius: 9px;
+    margin:15px;
+    margin-top:-250px;
+    height: fit-content;
+}
+.header{
+    margin-top: 100px;
+}

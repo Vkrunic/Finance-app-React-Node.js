@@ -1,0 +1,58 @@
+.calcEarnings{
+    width: 30%;
+    padding: 20px;
+    width: 350px;
+    background-color: rgba(0, 0, 0, 0.187);
+    border-radius: 9px;
+    margin-top: 150px;
+}
+.btn{
+    margin-bottom: 25px;
+}
+.header{
+    margin-bottom: 50px;
+}
+.table{
+    padding: 25px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.tablePayroll{
+    padding: 25px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.form-calc{
+    width:25%
+}
+.earnings{
+    display:flex;
+    flex-direction: column;
+    width: fit-content;
+    align-items: flex-end;
+}
+.label{
+    display:flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.totalSecion{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgba(0, 0, 0, 0.078);
+    margin-bottom:200px;
+}
+.total{
+    font-size: 35px;
+    
+}
+.bottomPart{
+    width: 1300px;
+    display:flex;
+}
